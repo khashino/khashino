@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=luckylearn.org&style=for-the-badge&url=https%3A%2F%2Fluckylearn.org)](https://luckylearn.org)
 [![Youtube Follow](https://img.shields.io/badge/Subscribe-YOUTUBE-red?style=for-the-badge&url=https%3A%2F%2Fyoutube.com%2Fchannel%2FUCovlBdRTrhjXN9BlEvrLd2Q)](https://youtube.com/channel/UCovlBdRTrhjXN9BlEvrLd2Q)
 
-## I'm a Tech Lover, Developer, and May be a Teacher!
+## I'm a Tech Lover, Developer, and Maybe a Teacher!
 
 - 🔭 I’m currently working on a [Youtube Channel][website]!
 - 🌱 I’m currently learning everything 🤣
