@@ -5,7 +5,8 @@
 
 ## I'm a Tech Lover, Developer, and Maybe a Teacher!
 
-- 🔭 I’m currently working on a [Youtube Channel][website]!
+- 🔭 I’m currently working as a Full Stack Developer  
+- ⚡ I’m working on [Youtube Channel][website] if i can!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Teach something
 - ⚡ Fun fact: I love Gaming
