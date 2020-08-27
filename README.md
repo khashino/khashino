@@ -9,7 +9,7 @@
 - ⚡ I’m working on [Youtube Channel][website] if i can!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Teach something
-- ⚡ Fun fact: I love Gaming
+- ⚡ Fun fact: I love BoardGame
 
 ### Connect with me:
 
