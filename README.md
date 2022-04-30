@@ -10,9 +10,10 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: who can say 🤣
 - ⚡ Fun fact: Im warzone player
-<!--
-### Connect with me:
 
+### Connect with me:
+[<img align="left" alt="luckylearn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!--
 [<img align="left" alt="luckylearn.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="luckylearn | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="luckylearn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,7 +41,7 @@
 
 ---
 ### 📕 ➡️ 
- YOUTUBE:END -->
+ YOUTUBE:END 
 
 ---
 
@@ -50,7 +51,7 @@
   <img align="left" alt="khashino's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=khashino&show_icons=true&hide_border=true" />
 
 </details>
-
+-->
 <!--[website]: https://luckylearn.org
 [youtube]: https://youtube.com/channel/UCovlBdRTrhjXN9BlEvrLd2Q
 [instagram]: https://instagram.com/LuckyLearn-->
