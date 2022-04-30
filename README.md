@@ -1,22 +1,21 @@
-### Hi there, I'm Khashayar - aka [khashino][website] 👋
+### Hi there, I'm Khashayar - aka [khashino]
+<!--[website] 👋
 
 [![Website](https://img.shields.io/website?label=luckylearn.org&style=for-the-badge&url=https%3A%2F%2Fluckylearn.org)](https://luckylearn.org)
 [![Youtube Follow](https://img.shields.io/badge/Subscribe-YOUTUBE-red?style=for-the-badge&url=https%3A%2F%2Fyoutube.com%2Fchannel%2FUCovlBdRTrhjXN9BlEvrLd2Q)](https://youtube.com/channel/UCovlBdRTrhjXN9BlEvrLd2Q)
-
-## I'm a Tech Lover, Developer, and Maybe a Teacher!
+-->
+## I'm a Tech Lover, Developer!
 
 - 🔭 I’m currently working as a Full Stack Developer  
-- ⚡ I’m working on [Youtube Channel][website] if i can!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Teach something
-- ⚡ Fun fact: I love BoardGame
-
+- 🥅 Goals: who can say 🤣
+- ⚡ Fun fact: Im warzone player
+<!--
 ### Connect with me:
 
 [<img align="left" alt="luckylearn.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="luckylearn | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="luckylearn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="luckylearn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <!--
@@ -52,9 +51,9 @@
 
 </details>
 
-[website]: https://luckylearn.org
+<!--[website]: https://luckylearn.org
 [youtube]: https://youtube.com/channel/UCovlBdRTrhjXN9BlEvrLd2Q
-[instagram]: https://instagram.com/LuckyLearn
+[instagram]: https://instagram.com/LuckyLearn-->
 [linkedin]: https://linkedin.com/in/khashayar-norouzi-540293145/
 
 <!--
